@@ -5,7 +5,7 @@ import dotenv from "dotenv";
 import mongoose from "mongoose";
 
 
-// routes
+//routes
 import AuthRoute from './routes/AuthRoute.js'
 import UserRoute from './routes/UserRoute.js'
 import PostRoute from './routes/PostRoute.js'
