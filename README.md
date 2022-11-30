@@ -4,8 +4,6 @@
 
 Building a full feature social media app in React! With Express, NodeJS, MongoDB and Socket.io
 
-**Check it out here:** []()
-
 [![Chat Page](./chatSS.png)]()
 
 ---
