@@ -38,7 +38,7 @@ Chat functionalilty courtest of socket.io.
 -Add Firebase hosting for the images, for a real multi-user experience.
 -Create a real time Trending board that updates automatically on usages of tags.
 -Add a Settings page to update password, email and other user settings.
--Add a 'Start Chat' feature where you can message any user from scratch. - COMPLETE 9/26/2022
+-Add a 'Start Chat' feature where you can message any user from scratch.
 
 ---
 
