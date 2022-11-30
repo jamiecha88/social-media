@@ -1,0 +1,18 @@
+.Home {
+   position: relative;
+   display: grid;
+   grid-template-columns: 18rem auto 20rem;
+   gap: 1rem;
+}
+
+@media (max-width: 1050px) {
+   .Home {
+      grid-template-columns: 18rem auto;
+   }
+}
+
+@media (max-width: 700px) {
+   .Home {
+      grid-template-columns: 1fr;
+   }
+}
