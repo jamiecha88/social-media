@@ -1,4 +1,4 @@
-## ![Logo](./ta_favicon.png) Social Media Clone
+## ![Logo](./ta_favicon.png) Radar
 
 **Radar**
 
