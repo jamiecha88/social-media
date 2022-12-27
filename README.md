@@ -1,6 +1,6 @@
 ## ![Logo](./ta_favicon.png) Social Media Clone
 
-**Social Media Clone**
+**Radar**
 
 Building a full feature social media app in React! With Express, NodeJS, MongoDB and Socket.io
 
