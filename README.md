@@ -1,7 +1,5 @@
 ## ![Logo](./ta_favicon.png) Radar
 
-**Radar**
-
 Building a full feature social media app in React! With Express, NodeJS, MongoDB and Socket.io
 
 [![Chat Page](./chatSS.png)]()
